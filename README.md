@@ -86,3 +86,6 @@ Credits / resources used
 * Astropy and astroquery: WCS, coordinates, and the astrometry.net client
 - [OpenCV](https://opencv.org): drawing on images
 
+* Video resources used
+* https://youtu.be/lC8yl5LUhgU?si=RXkC21eZdDXRUPLy
+* https://youtu.be/0XjrW0yMVq4?si=oZe2ZEgfR-p9tamG
